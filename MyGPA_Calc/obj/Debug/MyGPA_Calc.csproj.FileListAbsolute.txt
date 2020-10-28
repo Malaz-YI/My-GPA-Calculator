@@ -1,0 +1,10 @@
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\bin\Debug\MyGPA_Calc.exe.config
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\bin\Debug\MyGPA_Calc.exe
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\bin\Debug\MyGPA_Calc.pdb
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\obj\Debug\MyGPA_Calc.csprojAssemblyReference.cache
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\obj\Debug\MyGPA_Calc.Form1.resources
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\obj\Debug\MyGPA_Calc.Properties.Resources.resources
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\obj\Debug\MyGPA_Calc.csproj.GenerateResource.cache
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\obj\Debug\MyGPA_Calc.csproj.CoreCompileInputs.cache
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\obj\Debug\MyGPA_Calc.exe
+C:\Users\MZ_Samsung\Desktop\MyGPA_Calc\MyGPA_Calc\obj\Debug\MyGPA_Calc.pdb
